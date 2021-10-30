@@ -1,4 +1,4 @@
-# -*- coding: utf8 -*-                                                     
+# -*- coding: utf-8 -*-                                                     
 # CITRA IT - CONSULTORIA EM TI
 # SCRIPT PARA DEMONSTRAR COMO WEBSERVERS SÃO CONSTRUIÍDOS, UTILIZANDO PYTHON
 # Author: luciano@citrait.com.br
